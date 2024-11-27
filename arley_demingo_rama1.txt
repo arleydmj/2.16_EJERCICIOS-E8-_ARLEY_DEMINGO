@@ -1,2 +1,7 @@
 Contenido archivo rama1
+<<<<<<< HEAD
 Línea añadida en master
+=======
+Nueva línea 1
+Nueva línea 2
+>>>>>>> arley_demingo_rama
